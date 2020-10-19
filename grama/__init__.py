@@ -95,3 +95,7 @@ from .tran_shapley import *
 from .tran_summaries import *
 
 from .fit_synonyms import *
+
+from .tlmc_model_1f1m import *
+from .tlmc_impl_1f1m import *
+from .tlmc_model_2f1m import *
