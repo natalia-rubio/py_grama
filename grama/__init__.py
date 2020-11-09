@@ -99,3 +99,4 @@ from .fit_synonyms import *
 from .tlmc_model_1f1m import *
 from .tlmc_impl_1f1m import *
 from .tlmc_model_2f1m import *
+from .mlmc_with_generator import *
